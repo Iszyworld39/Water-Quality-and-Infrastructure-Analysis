@@ -2,7 +2,7 @@
 
 This project focuses on analysing water quality data, infrastructure improvements, and employee performance for water sources in various locations. This project uses SQL to join and filter data across multiple tables, identify problematic sources and track project progress.
 
-![Project Overview](./images/Maji_N'Dogo_water.png)
+![Project Overview](./images/Screenshot 2025-01-04 134237.png)
 
 ## Project Overview
 
